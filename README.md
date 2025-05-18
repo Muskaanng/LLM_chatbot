@@ -57,7 +57,7 @@ document_buddy_app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/GURPREETKAURJETHRA/RAG-Based-LLM-Chatbot.git
+git clone https://github.com/Muskaanng/LLM_chatbot
 cd RAG-Based-LLM-Chatbot
 ```
 
